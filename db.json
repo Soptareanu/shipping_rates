@@ -1,0 +1,20 @@
+{
+   "rates":[
+      {
+         "service_name":"2H",
+         "service_code":"2H",
+         "total_price":20,
+         "currency":"RON",
+         "min_delivery_date":"2022-08-04 14:45:06 +0000",
+         "max_delivery_date":"2022-08-05 14:45:06 +0000"
+      },
+      {
+         "service_name":"Door to Door",
+         "service_code":"24H",
+         "total_price":20,
+         "currency":"RON",
+         "min_delivery_date":"2022-08-04 14:45:06 +0000",
+         "max_delivery_date":"2022-08-05 14:45:06 +0000"
+      }
+   ]
+}
